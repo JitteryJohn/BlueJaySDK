@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluejay SDK Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1103300664798967/9355913800</string>
+</resources>
